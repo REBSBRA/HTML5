@@ -12,7 +12,7 @@ Com esses elementos podemos adicionar conteúdos, alterar tamanho e forma das fo
 
 `<html>`
 
-``<head>`
+`<head>`
 
 `<meta>`
 
@@ -88,7 +88,7 @@ O `href` representa o hyperlink para a sua âncora aponta, podendo ser uma pági
 
 `< a href = "linkedin.com/in/...."> LinkedIn </a>`
 
-``< herf = "mailto: rebsbra@gmail.com" > E-mail </a>`
+`< herf = "mailto: rebsbra@gmail.com" > E-mail </a>`
 
 O `target` serve para nos ajudar a abrir nossos links em outra aba do navegador usando o valor `_blank`
 
